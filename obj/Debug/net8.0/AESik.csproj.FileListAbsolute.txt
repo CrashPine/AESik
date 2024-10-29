@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\AESik\AESik\bin\Debug\net8.0\AESik.exe
+C:\Users\user\RiderProjects\AESik\AESik\bin\Debug\net8.0\AESik.deps.json
+C:\Users\user\RiderProjects\AESik\AESik\bin\Debug\net8.0\AESik.runtimeconfig.json
+C:\Users\user\RiderProjects\AESik\AESik\bin\Debug\net8.0\AESik.dll
+C:\Users\user\RiderProjects\AESik\AESik\bin\Debug\net8.0\AESik.pdb
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.AssemblyInfo.cs
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.dll
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\refint\AESik.dll
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.pdb
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\AESik.genruntimeconfig.cache
+C:\Users\user\RiderProjects\AESik\AESik\obj\Debug\net8.0\ref\AESik.dll
